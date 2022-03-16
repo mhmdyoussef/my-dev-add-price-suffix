@@ -17,3 +17,5 @@ This Plugin relies on WooCommerce Plugin, It's working to show currency suffix b
 ![Add price suffix to WooCommerce plugin in related product](https://github.com/mhmdyoussef/images/blob/main/my-dev-add-price-suffix/3.png?raw=true)
 
 Enjoy it.. :smiley:
+
+<a href="https://www.buymeacoffee.com/mydev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mydev&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
