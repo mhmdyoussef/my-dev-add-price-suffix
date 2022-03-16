@@ -1,7 +1,7 @@
 # MY-Dev Add price suffix (WordPress Plugin)
 ============
 
-This Plugin relies on WooCommerce Plugin, It's working to show currency suffix beside price label on product page and any other place you could found the product price relies on Customer account role
+This Plugin relies on WooCommerce Plugin, It's working to show currency suffix beside price label on product page and any other place you could found the product price relies on Customer account role.
 
 **Category Page**
 
